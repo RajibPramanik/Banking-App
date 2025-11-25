@@ -101,7 +101,7 @@ Enter Choice: 2
 
 ## Author
 
-**RajibLochan Pramanik**
+**RajibLochan Pramanik**<br>
 Email: [pramanikrajib715@example.com](mailto:pramanikrajib715@example.com)  
 GitHub: [https://github.com/RajibPramanik](https://github.com/RajibPramanik)
 
