@@ -1,4 +1,3 @@
-# Banking-App
 # Mini Banking App
 
 ![App Screenshot](logo.png)
