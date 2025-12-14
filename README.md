@@ -105,5 +105,8 @@ Enter Choice: 2
 Email: [pramanikrajib715@gmail.com](mailto:pramanikrajib715@gmail.com)  
 GitHub: [https://github.com/RajibPramanik](https://github.com/RajibPramanik)
 
+---
 
-
+<div align="center">
+<h3> Connect with me<a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+</h3> 
