@@ -99,14 +99,24 @@ Enter Choice: 2
 
 ---
 
-## Author
-
-**RajibLochan Pramanik**<br>
-Email: [pramanikrajib715@gmail.com](mailto:pramanikrajib715@gmail.com)  
-GitHub: [https://github.com/RajibPramanik](https://github.com/RajibPramanik)
-
----
 
 <div align="center">
 <h3> Connect with me<a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3> 
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/rajiblochan-pramanik/" target="_blank" style="margin-right:15px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+             alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://github.com/RajibPramanik" target="_blank" style="margin-right:15px;">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
+             alt="GitHub" height="30" width="40" />
+    </a>
+    <a href="https://rajibpramanik04.medium.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" 
+             alt="Medium" height="30" width="40" />
+    </a>
+</p>
+
+
